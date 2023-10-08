@@ -1,6 +1,7 @@
 Updated Dashboard to include new university services      2023/10/4
 
-Server Migration Completed      2023/10/7
+Server migration completed      2023/10/7
 
 Scrubbed unneeded services      2023/10/8
 
+Fixed links      2023/10/8
