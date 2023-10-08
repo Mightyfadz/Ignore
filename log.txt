@@ -1,3 +1,8 @@
+Simple Log File Used To Keep Track Of Tasks:
+Keep Log Vague With No Indications Of Where, What The Server Is.
+
+Log Starts Here:
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 Updated Dashboard to include new university services      2023/10/4
 
 Server migration completed      2023/10/7
@@ -7,3 +12,9 @@ Scrubbed unneeded services      2023/10/8
 Fixed links      2023/10/8
 
 Test server launched      2023/10/8
+
+Test Server Fully Setup      2023/10/8
+
+All Servers Backed Up      2023/10/8
+
+Mass Server Updates      2023/10/8
